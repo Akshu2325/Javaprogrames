@@ -2,9 +2,9 @@ public class Alphabet {
 
     public static void main(String[] args) {
 
-        char c = 'a';
+        char x = 'a';
 
-        if( (c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
+        if( (x >= 'a' && x <= 'z') || (x >= 'A' && x <= 'Z'))
             System.out.println( "Alphabet");
         else
             System.out.println(" No ");
