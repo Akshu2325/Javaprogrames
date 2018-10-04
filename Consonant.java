@@ -5,9 +5,9 @@ public class VowelConsonant {
         char x = 'z';
 
         if(x == 'a' || x == 'e' || x == 'i' || x == 'o' || x == 'u'|| x == 'z' )
-            System.out.println(x + " is Consonant");
+            System.out.println(" Consonant");
         else
-            System.out.println(x + " is vowel");
+            System.out.println( " vowel");
 
     }
 }
