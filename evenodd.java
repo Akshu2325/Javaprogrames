@@ -5,9 +5,9 @@ public class numbers{
     System.out.println("Enter an Integer number:");
 
      if ( n ==5)
-        System.out.println("odd");
+        System.out.println("Odd");
      else
-        System.out.println("even");
+        System.out.println("Even");
        
      }
 }
