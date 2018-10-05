@@ -1,8 +1,8 @@
 public class leapyear{
 
      public static void main(String []args){
-     int y = 2016;
-        boolean leap =true;
+     int y = 2015;
+        boolean leap =false;
 
         if(y % 4 == 0)
         {
@@ -20,9 +20,9 @@ public class leapyear{
             leap = false;
 
         if(leap)
-            System.out.println( " Yes");
+            System.out.println( " yes");
         else
-            System.out.println(" no"); 
+            System.out.println(" no");
 
      }
 }
