@@ -1,7 +1,7 @@
 public class largestnum{
 
      public static void main(String []args){
-     int a = 3, b = 4, c = 5;
+     int a = 1, b = 6, c = 2;
 
       if( a >= b && a >= c)
           System.out.println(a);
